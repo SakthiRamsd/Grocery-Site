@@ -1,5 +1,5 @@
 Grocery Website Project
-This is a simple grocery website created using HTML, CSS, and JavaScript.
+This is a simple grocery website created using HTML, CSS, and JavaScript. 
 
 Table of Contents
    Description
